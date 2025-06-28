@@ -47,5 +47,6 @@ npx expo start
 
 
 ![Login Screen UI](https://github.com/CoderAyushman/login-screen-ui-react-native/blob/main/assets/images/loginscreenui.jpg)
-![Functionality UI]((https://github.com/CoderAyushman/gtd-app/blob/main/assets/images/demo.jpg))
+
+![Functionality UI](https://github.com/CoderAyushman/gtd-app/blob/main/assets/images/demo.jpg)
 
