@@ -34,14 +34,18 @@ A **Getting Things Done (GTD)** inspired productivity app built with **React Nat
 ## Get started
 
 ## 1. Clone the repo
+```bash
 git clone https://github.com/CoderAyushman/gtd-app.git
 cd gtd-app
-
+```
 ## 2. Install dependencies
+```bash
 npm install
-
+```
 ## 3. Start the Expo app
+```bash
 npx expo start
+```
 ---
 ## Here is a sample 
 
