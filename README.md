@@ -50,7 +50,7 @@ npx expo start
 ## Here is a sample 
 
 
-![Login Screen UI](https://github.com/CoderAyushman/login-screen-ui-react-native/blob/main/assets/images/loginscreenui.jpg)
+![Login Screen UI](https://github.com/CoderAyushman/gtd-app/blob/main/assets/images/WhatsApp%20Image%202025-06-29%20at%2001.25.09_1735f671.jpg?raw=true)
 
 ![Functionality UI](https://github.com/CoderAyushman/gtd-app/blob/main/assets/images/demo.jpg)
 
